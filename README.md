@@ -7,7 +7,7 @@
   - 有避障跟避牆功能
 
 #程式截圖
-![]( "截圖")
+![https://raw.githubusercontent.com/neohung/AI_Game_SteeringBehaviors/master/screensnap.png("截圖")
 
 所有來源參考 [ai-junkie] 有興趣的人可以去看看
 
